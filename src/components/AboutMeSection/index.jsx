@@ -1,6 +1,6 @@
 import {Section, TechSection, TextSection, Title} from "./styles.js";
 import {StackComponent} from "../StackComponent/index.jsx";
-import {Trans, useTranslation} from "react-i18next";
+import {useTranslation} from "react-i18next";
 
 
 export function AboutMeSection() {

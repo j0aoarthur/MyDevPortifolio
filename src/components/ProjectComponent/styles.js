@@ -3,7 +3,7 @@ import {Carousel, Image} from "antd";
 
 export const Container = styled.div`
     display: flex;
-    padding: 20px 0px;
+    padding: 20px 0;
     align-items: center;
     column-gap: 100px;
     row-gap: 20px;

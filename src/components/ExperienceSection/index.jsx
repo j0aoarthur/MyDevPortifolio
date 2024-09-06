@@ -1,6 +1,5 @@
 import {CardsWrapper, Section} from "./styles.js";
 import {useTranslation} from "react-i18next";
-import profileImage from "../../assets/profileImage.png";
 import {ExperienceComponent} from "../ExperienceComponent/index.jsx";
 
 export function ExperienceSection() {

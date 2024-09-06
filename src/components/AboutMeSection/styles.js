@@ -48,7 +48,7 @@ export const TextSection = styled.div`
         align-items: center;
         
         & > p {
-            text-indent: 0px;
+            text-indent: 0;
             width: 80%;
             text-align: center;
         }
@@ -71,7 +71,7 @@ export const TechSection = styled.div`
     
     & > div {
         display: flex;
-        padding: 0px 20px;
+        padding: 0 20px;
         align-items: center;
         align-content: center;
         gap: 24px 30px;
