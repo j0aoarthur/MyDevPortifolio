@@ -5,7 +5,7 @@ import {ProjectComponent} from "../ProjectComponent/index.jsx";
 export function ProjectsSection() {
     const {t} = useTranslation();
     return (
-        <Section id={"project"}>
+        <Section id={"projects"}>
             <h2>{t("project")}</h2>
             <ProjectsWrapper>
                 <ProjectComponent

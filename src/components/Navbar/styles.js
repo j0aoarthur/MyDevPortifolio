@@ -39,7 +39,7 @@ export const NavSection = styled.nav`
         }
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 760px) {
         display: none;
     }
 `;
@@ -76,7 +76,7 @@ export const HamburgerMenu = styled.div`
     font-size: 30px;
     transition: transform 0.3s ease-in-out;
 
-    @media (max-width: 600px) {
+    @media (max-width: 760px) {
         display: block;
         z-index: 1000;
     }
@@ -110,7 +110,7 @@ export const MobileMenu = styled.div`
         border-color: white;
     }
 
-    @media (min-width: 600px) {
+    @media (min-width: 760px) {
         display: none;
     }
 `;

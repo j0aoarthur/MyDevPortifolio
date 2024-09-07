@@ -24,6 +24,7 @@ export function Navbar() {
                 <a href="#home">{t("home")}</a>
                 <a href="#aboutMe">{t("about_me")}</a>
                 <a href="#projects">{t("project")}</a>
+                <a href="#experience">{t("experience")}</a>
                 <a href="#contact">{t("contacts")}</a>
                 <span>|</span>
                 <SocialWrapper>
@@ -40,6 +41,7 @@ export function Navbar() {
                 <a href="#home" onClick={toggleMobileMenu}>{t("home")}</a>
                 <a href="#aboutMe" onClick={toggleMobileMenu}>{t("about_me")}</a>
                 <a href="#projects" onClick={toggleMobileMenu}>{t("project")}</a>
+                <a href="#experience" onClick={toggleMobileMenu}>{t("experience")}</a>
                 <a href="#contact" onClick={toggleMobileMenu}>{t("contacts")}</a>
             </MobileMenu>
         </HeaderContainer>

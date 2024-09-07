@@ -5,7 +5,7 @@ import {ExperienceComponent} from "../ExperienceComponent/index.jsx";
 export function ExperienceSection() {
     const {t} = useTranslation();
     return (
-        <Section id={"Experience"}>
+        <Section id={"experience"}>
             <h2>{t("experience")}</h2>
             <CardsWrapper>
                 <ExperienceComponent
