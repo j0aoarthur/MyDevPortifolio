@@ -31,7 +31,7 @@
       "date": "Nov 2023",
       "description": "Participating in the ONE program, offered by Oracle in partnership with Alura, was an enriching experience. The focus on back-end, with an emphasis on Java and Spring Boot, allowed me to deepen my knowledge in these essential technologies for developing robust applications. The program was well-structured, with courses covering everything from basic concepts to advanced practices, better preparing me to work on more complex projects in the Java ecosystem.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSFSmaZIZ9xSP6HyNsytS5k7f_BfN9fg6rQ&s",
-      "certificateLink": "https://www.udemy.com/certificate/UC-7b3b3b3b-7b3b-7b3b-7b3b-7b3b3b3b7b3b/"
+      "certificateLink": "https://cursos.alura.com.br/program/certificate/8fafa83c-5ae6-4004-bb28-f6cb55e85d6f"
     },
     "2": {
       "name": "Meta - Version Control",
@@ -66,7 +66,7 @@
     "01": {
       "number": "01",
       "name": "AFADFAL System",
-      "description": "The AFADFAL NGO web system was developed using a robust and modern tech stack. On the back-end, Spring Boot was implemented, along with Hibernate for managing the MySQL database, providing a solid and efficient foundation for data storage. The front-end was developed with React, offering a dynamic and user-friendly interface. The application was deployed on AWS EC2 and containerized with Docker, ensuring scalability and ease of maintenance. Additionally, tools such as Swagger were used for API documentation, and Lombok and Maven were employed to optimize development.",
+      "description": "The AFADFAL, is a web system that was developed for a non-profit organization, using a robust and modern tech stack. On the back-end, Spring Boot was implemented, along with Hibernate for managing the MySQL database, providing a solid and efficient foundation for data storage. The front-end was developed with React, offering a dynamic and user-friendly interface. The application was deployed on AWS EC2 and containerized with Docker, ensuring scalability and ease of maintenance. Additionally, tools such as Swagger were used for API documentation, and Lombok and Maven were employed to optimize development.",
       "images": [
         "https://github.com/user-attachments/assets/58b5998d-b95b-4324-aebc-38cd88d5d64e",
         "https://github.com/user-attachments/assets/0f4f1d6a-3971-4f9e-9ffc-6ebbfa95c302",

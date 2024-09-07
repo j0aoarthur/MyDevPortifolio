@@ -44,11 +44,11 @@ export const TitleWrapper = styled.div`
 
     @media (max-width: 1350px) {
         & h1 {
-            font-size: 28px;
+            font-size: 35px;
         }
 
         & h2 {
-            font-size: 20px;
+            font-size: 25px;
         }
     }
 
@@ -56,10 +56,6 @@ export const TitleWrapper = styled.div`
         align-items: center;
         justify-content: center;
         text-align: center;
-
-        & h2 {
-            font-size: 20px;
-        }
     }
 
     @media (max-width: 620px) {
