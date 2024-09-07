@@ -1,0 +1,121 @@
+{
+  "home": "Home",
+  "about_me": "Sobre Mim",
+  "project": "Projetos",
+  "contacts": "Contatos",
+  "experience": "Experiências",
+  "my_name_is": "Oi, me chamo",
+  "and_i_am": "e sou",
+  "developer": "Desenvolvedor Back-End",
+  "about_me_paragraph": {
+    "1": "Olá, sou João Arthur, estudante de Engenharia da Computação e desenvolvedor back-end em busca da minha primeira experiência profissional. Tenho uma base sólida em <b>desenvolvimento back-end</b>, com ênfase em <b>Java e o framework Spring Boot</b>. Minha experiência inclui o trabalho com <b>bancos de dados SQL</b>, como <b>MySQL e PostgreSQL</b>, e a exploração de ferramentas como <b>Docker, AWS e APIs RESTful</b>. Em projetos recentes, sempre procurei implementar soluções <b>eficientes e escaláveis</b>, mantendo um código <b>limpo e organizado</b>. Além disso, sou familiarizado com metodologias ágeis, como <b>Scrum e Jira</b>, que utilizo para garantir um fluxo de trabalho eficiente e a entrega de resultados de qualidade.",
+    "2": "Além das minhas habilidades técnicas, valorizo o trabalho em equipe e a comunicação clara. A adaptabilidade e a vontade de aprender são características que cultivo constantemente, tanto na faculdade quanto em projetos pessoais. Estou ansioso para aplicar meus conhecimentos e contribuir para projetos inovadores, enquanto continuo a crescer e me desenvolver como profissional."
+  },
+  "tech_stack": "Tecnologias",
+  "resume_pt": "Currículo PT-BR",
+  "resume_en": "Currículo EN-US",
+  "contact_me": "Entre em contato",
+  "contact_me_subtitle": "Sinta-se à vontade para entrar em contato comigo em caso de dúvidas ou novas oportunidades!",
+  "contact_links": "Links de contato",
+  "form_name": "Seu Nome",
+  "form_email": "Seu E-mail",
+  "form_subject": "Assunto",
+  "form_message": "Mensagem",
+  "form_submit": "Enviar E-mail",
+  "form_success": "Mensagem enviada com sucesso!",
+  "footer": "Projetado e desenvolvido por João Arthur Britto",
+  "view_certificate": "Vizualizar Certificado",
+  "courses": {
+    "1": {
+      "name": "ONE - Oracle Next Education",
+      "date": "Nov 2023",
+      "description": "Participar do programa ONE, oferecido pela Oracle em parceria com a Alura, foi uma experiência enriquecedora. O foco em back-end, com ênfase em Java e Spring Boot, me permitiu aprofundar meus conhecimentos nessas tecnologias essenciais para o desenvolvimento de aplicações robustas. O programa foi muito bem estruturado, com cursos que cobriam desde conceitos básicos até práticas avançadas, preparando-me melhor para atuar em projetos mais complexos no ecossistema Java.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSFSmaZIZ9xSP6HyNsytS5k7f_BfN9fg6rQ&s",
+      "certificateLink": "https://cursos.alura.com.br/program/certificate/8fafa83c-5ae6-4004-bb28-f6cb55e85d6f"
+    },
+    "2": {
+      "name": "Meta - Controle de Versão",
+      "date": "Set 2023",
+      "description": "O curso da Meta sobre controle de versão foi fundamental para aprimorar meu entendimento sobre versionamento, especialmente usando Git e GitHub. O curso abordou desde os conceitos básicos, como commits e branches, até estratégias mais avançadas, como merges e resolução de conflitos. Essa experiência me deu mais confiança para colaborar em projetos em equipe, além de me ajudar a manter um histórico claro e organizado das alterações no código, algo essencial para qualquer desenvolvedor.",
+      "image": "https://pngimg.com/d/meta_PNG5.png",
+      "certificateLink": "https://coursera.org/share/1f2131878c684c8eb8ec2f3ae30cf901"
+    },
+    "3": {
+      "name": "Meta - Introdução ao Desenvolvimento Back-End",
+      "date": "Ago 2023",
+      "description": "O curso de Introdução ao Desenvolvimento Back-End foi uma excelente oportunidade para aprimorar minhas habilidades em desenvolvimento de software. Aprendi conceitos fundamentais de back-end, como APIs, bancos de dados e autenticação. O curso me proporcionou uma base sólida para entender o funcionamento de softwares e os desafios de desenvolver aplicações robustas e escaláveis.",
+      "image": "https://pngimg.com/d/meta_PNG5.png",
+        "certificateLink": "https://coursera.org/share/650e928251063a9048d761898d83c41b"
+    },
+    "4": {
+      "name": "Harvard CS50 - Introdução à Ciência da Computação",
+      "date": "Jul 2023",
+      "description": "O CS50 de Harvard é um renomado curso introdutório de Ciência da Computação que explora conceitos fundamentais como algoritmos, estruturas de dados, criptografia, redes e sistemas de software. Fazer o CS50 de Harvard foi uma experiência transformadora para mim. O curso desafiou minha forma de pensar ao lidar com algoritmos e estruturas de dados, e foi uma ótima oportunidade para aprender a programar em C, o que inicialmente parecia intimidador, mas acabou se tornando gratificante. Além disso, mergulhei em tecnologias como SQL e Flask, que ampliaram minha visão sobre desenvolvimento web.",
+      "image": "https://cdn.freebiesupply.com/images/large/2x/harvard-logo-transparent.png",
+      "certificateLink": "https://certificates.cs50.io/78894551-7bbe-4b0b-922d-de593da0b335.pdf?size=letter"
+    },
+    "5": {
+      "name": "IBM - Python 101 for Data Science",
+      "date": "Jul 2023",
+      "description": "Fazer o curso Python da IBM foi uma experiência importante para meu desenvolvimento com Python, especialmente aplicado à ciência de dados. Aprendi conceitos fundamentais de programação e como utilizar bibliotecas essenciais, como Pandas e Numpy, para manipulação e análise de dados. O curso também me ajudou a entender como Python pode ser uma ferramenta poderosa no processamento de grandes volumes de informações, me proporcionando uma base sólida para projetos futuros na área de ciência de dados.",
+      "image": "https://www.sharewayre.com/wp-content/uploads/2024/06/IBM_logo.svg_.png",
+      "certificateLink": "https://courses.cognitiveclass.ai/certificates/73c3e954467c46bebd5682e4131190c8/"
+    }
+  },
+  "projects": {
+    "01": {
+      "number": "01",
+      "name": "Sistema AFADFAL",
+      "description": "O sistema web da ONG AFADFAL foi desenvolvido utilizando uma stack tecnológica robusta e moderna. No back-end, foi implementado o Spring Boot, junto com Hibernate para gerenciamento do banco de dados MySQL, proporcionando uma base sólida e eficiente para o armazenamento de dados. O front-end foi desenvolvido com React, oferecendo uma interface dinâmica e fácil de usar. A aplicação foi implantada na AWS EC2 e containerizada com Docker, garantindo escalabilidade e facilidade de manutenção. Além disso, foram utilizadas ferramentas como Swagger para a documentação das APIs e Lombok e Maven para a otimização do desenvolvimento.",
+      "images": [
+        "https://github.com/user-attachments/assets/58b5998d-b95b-4324-aebc-38cd88d5d64e",
+        "https://github.com/user-attachments/assets/0f4f1d6a-3971-4f9e-9ffc-6ebbfa95c302",
+        "https://github.com/user-attachments/assets/126927dd-1cb5-42c9-a020-9b7aefdff6e2",
+        "https://github.com/user-attachments/assets/1ca07a35-feee-4494-8361-20a3bc463701",
+        "https://github.com/user-attachments/assets/6b9dc6ed-e535-475e-ae1a-368e5e057a81",
+        "https://github.com/user-attachments/assets/848bd08d-bbe7-4c3c-9463-0676f8b751c9",
+        "https://github.com/user-attachments/assets/c12622d3-d21d-4ea4-b53d-d7659930ee0c"
+      ]
+    },
+    "02": {
+      "number": "02",
+      "name": "TicketFlow",
+      "description": "TicketFlow é uma aplicação web full stack para gerenciamento de ingressos em eventos. Utiliza React no front-end com Styled Components e animações dinâmicas, enquanto o back-end é desenvolvido em Spring Boot com MySQL como banco de dados. A aplicação é containerizada com Docker para facilitar o deployment e garantir escalabilidade.",
+      "images": [
+        "https://github.com/user-attachments/assets/bc5bfbcf-509d-4b21-af86-32dcbf1c1515",
+        "https://github.com/user-attachments/assets/c1cab3f4-35b6-4ed9-825f-feec9559f034",
+        "https://github.com/user-attachments/assets/5191079c-7f59-4f65-8c82-dea9fbc29549",
+        "https://github.com/user-attachments/assets/1dcbf4d5-7f76-4c96-ab82-4e4db85036cf"
+      ],
+      "githubLink": "https://github.com/sistema-de-ingressos"
+    },
+    "03": {
+      "number": "03",
+      "name": "Sistema de Clínica Médica",
+      "description": "Desenvolvi, junto com meu grupo, uma aplicação web full stack para a gestão de atendimento clínico, utilizando Spring Boot no back-end e React no front-end. O sistema conta com funcionalidades como painel de senhas para triagem, painel de chamadas, fila de triagem e fila de atendimento, todas organizadas por prioridade clínica. Utilizamos WebSocket para garantir comunicação em tempo real entre os painéis, permitindo sincronização em diferentes dispositivos. Fui responsável pelo design inicial e pelo desenvolvimento do back-end, além de aprender a implementar WebSocket, o que enriqueceu meu conhecimento em comunicações dinâmicas.",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEfz92KH8XT3w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046611837?e=1728518400&v=beta&t=vKZ84MUlVB8N-T1N-al4sy61ohuEkfacqBPPM9ISM24",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGJrwcsvv5InA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610043?e=1728518400&v=beta&t=c490rAloEBUZ25NxPOo4174inmzriWFzyXLWJqdcuFM",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEaHUpywzUZ_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610320?e=1728518400&v=beta&t=o6PRU55kZYmDPt0jb17gU8xXbix9LChffBwJBu6Nk3Y",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHy_RScKdpp-g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610880?e=1728518400&v=beta&t=GybYSEnhsaA4kI-v9VLeGykF0HEDYmTRY30b4ySbh0o"
+      ],
+      "githubLink": "https://github.com/sistema-clinica"
+    },
+    "04": {
+      "number": "04",
+      "name": "GymTech",
+      "description": "Desenvolvi o GymTech, uma aplicação web full stack voltada para a gestão de academias e treinos, utilizando Django no back-end e SQL para o banco de dados. O sistema permite gerenciar alunos, treinos e rotinas, além de oferecer uma interface fácil para acompanhamento de progresso. Durante o desenvolvimento, aprimorei minhas habilidades com o Django, refatorei o código para otimização e implementei APIs para ampliar as funcionalidades. Fui responsável por todo o back-end, e o projeto foi uma excelente oportunidade para consolidar meus conhecimentos em desenvolvimento web.",
+      "images": [
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/login.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/menu.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/usuarios.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/cadastro.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/treino.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/exercicios.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/admin.png"
+      ],
+      "link": "https://gymtech.cloud/",
+      "githubLink": "https://github.com/j0aoarthur/GymTech"
+    }
+  }
+}

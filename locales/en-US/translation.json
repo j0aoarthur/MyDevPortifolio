@@ -1,0 +1,118 @@
+{
+  "home": "Home",
+  "about_me": "About Me",
+  "project": "Projects",
+  "contacts": "Contacts",
+  "experience": "Experience",
+  "my_name_is": "Hi, my name is",
+  "and_i_am": "and I am",
+  "developer": "Back-End Developer",
+  "about_me_paragraph": {
+    "1": "Hello, I’m João Arthur, a Computer Engineering student and back-end developer seeking my first professional experience. I have a solid foundation in <b>back-end development</b>, with a focus on <b>Java and the Spring Boot framework</b>. My experience includes working with <b>SQL databases</b> such as <b>MySQL and PostgreSQL</b>, and exploring tools like <b>Docker, AWS, and RESTful APIs</b>. In recent projects, I have always aimed to implement <b>efficient and scalable solutions</b>, maintaining <b>clean and organized code</b>. Additionally, I am familiar with <b>agile methodologies</b> such as <b>Scrum and Jira</b>, which I use to ensure an <b>efficient workflow</b> and deliver <b>quality results</b>.",
+    "2": "In addition to my technical skills, I value teamwork and clear communication. Adaptability and a willingness to learn are traits I constantly cultivate, both at university and in personal projects. I am eager to apply my knowledge and contribute to innovative projects while continuing to grow and develop as a professional."
+  },
+  "tech_stack": "Tech Stack",
+  "resume_pt": "Resume PT-BR",
+  "resume_en": "Resume EN-US",
+  "contact_me": "Contact Me",
+  "contact_me_subtitle": "Feel free to reach out if you have any questions or new opportunities!",
+  "contact_links": "Contact Links",
+  "form_name": "Your Name",
+  "form_email": "Your Email",
+  "form_subject": "Subject",
+  "form_message": "Message",
+  "form_submit": "Send Email",
+  "form_success": "Message sent successfully!",
+  "footer": "Designed and developed by João Arthur Britto",
+  "view_certificate": "View Certificate",
+  "courses": {
+    "1": {
+      "name": "ONE - Oracle Next Education",
+      "date": "Nov 2023",
+      "description": "Participating in the ONE program, offered by Oracle in partnership with Alura, was an enriching experience. The focus on back-end, with an emphasis on Java and Spring Boot, allowed me to deepen my knowledge in these essential technologies for developing robust applications. The program was well-structured, with courses covering everything from basic concepts to advanced practices, better preparing me to work on more complex projects in the Java ecosystem.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBSFSmaZIZ9xSP6HyNsytS5k7f_BfN9fg6rQ&s",
+      "certificateLink": "https://cursos.alura.com.br/program/certificate/8fafa83c-5ae6-4004-bb28-f6cb55e85d6f"
+    },
+    "2": {
+      "name": "Meta - Version Control",
+      "date": "Sep 2023",
+      "description": "The Meta course on version control was crucial for enhancing my understanding of versioning, especially using Git and GitHub. The course covered everything from basic concepts like commits and branches to more advanced strategies like merges and conflict resolution. This experience gave me more confidence in collaborating on team projects, as well as helping me maintain a clear and organized history of code changes, which is essential for any developer.",
+      "image": "https://pngimg.com/d/meta_PNG5.png",
+      "certificateLink": "https://coursera.org/share/1f2131878c684c8eb8ec2f3ae30cf901"
+    },
+    "3": {
+      "name": "Meta - Introduction to Back-End Development",
+      "date": "Aug 2023",
+      "description": "The Introduction to Back-End Development course was an excellent opportunity to enhance my software development skills. I learned fundamental back-end concepts such as APIs, databases, and authentication. The course provided a solid foundation for understanding how software works and the challenges of developing robust and scalable applications.",
+      "image": "https://pngimg.com/d/meta_PNG5.png",
+      "certificateLink": "https://coursera.org/share/650e928251063a9048d761898d83c41b"
+    },
+    "4": {
+      "name": "Harvard CS50 - Introduction to Computer Science",
+      "date": "Jul 2023",
+      "description": "Harvard's CS50 is a renowned introductory computer science course that explores fundamental concepts such as algorithms, data structures, cryptography, networks, and software systems. Taking Harvard's CS50 was a transformative experience for me. The course challenged my way of thinking with algorithms and data structures, and it was a great opportunity to learn programming in C, which initially seemed intimidating but became rewarding. Additionally, I delved into technologies like SQL and Flask, which broadened my view of web development.",
+      "image": "https://cdn.freebiesupply.com/images/large/2x/harvard-logo-transparent.png",
+      "certificateLink": "https://certificates.cs50.io/78894551-7bbe-4b0b-922d-de593da0b335.pdf?size=letter"
+    },
+    "5": {
+      "name": "IBM - Python 101 for Data Science",
+      "date": "Jul 2023",
+      "description": "Taking IBM's Python course was an important experience for my development with Python, especially applied to data science. I learned fundamental programming concepts and how to use essential libraries like Pandas and Numpy for data manipulation and analysis. The course also helped me understand how Python can be a powerful tool for processing large volumes of information, providing a solid foundation for future data science projects.",
+      "image": "https://www.sharewayre.com/wp-content/uploads/2024/06/IBM_logo.svg_.png",
+      "certificateLink": "https://courses.cognitiveclass.ai/certificates/73c3e954467c46bebd5682e4131190c8/"
+    }
+  },
+  "projects": {
+    "01": {
+      "number": "01",
+      "name": "AFADFAL System",
+      "description": "The AFADFAL, is a web system that was developed for a non-profit organization, using a robust and modern tech stack. On the back-end, Spring Boot was implemented, along with Hibernate for managing the MySQL database, providing a solid and efficient foundation for data storage. The front-end was developed with React, offering a dynamic and user-friendly interface. The application was deployed on AWS EC2 and containerized with Docker, ensuring scalability and ease of maintenance. Additionally, tools such as Swagger were used for API documentation, and Lombok and Maven were employed to optimize development.",
+      "images": [
+        "https://github.com/user-attachments/assets/58b5998d-b95b-4324-aebc-38cd88d5d64e",
+        "https://github.com/user-attachments/assets/0f4f1d6a-3971-4f9e-9ffc-6ebbfa95c302",
+        "https://github.com/user-attachments/assets/126927dd-1cb5-42c9-a020-9b7aefdff6e2",
+        "https://github.com/user-attachments/assets/1ca07a35-feee-4494-8361-20a3bc463701",
+        "https://github.com/user-attachments/assets/6b9dc6ed-e535-475e-ae1a-368e5e057a81",
+        "https://github.com/user-attachments/assets/848bd08d-bbe7-4c3c-9463-0676f8b751c9",
+        "https://github.com/user-attachments/assets/c12622d3-d21d-4ea4-b53d-d7659930ee0c"
+      ]
+    },
+    "02": {
+      "number": "02",
+      "name": "TicketFlow",
+      "description": "TicketFlow is a full-stack web application for event ticket management. It uses React on the front-end with Styled Components and dynamic animations, while the back-end is developed in Spring Boot with MySQL as the database. The application is containerized with Docker to facilitate deployment and ensure scalability.",
+      "images": [
+        "https://github.com/user-attachments/assets/bc5bfbcf-509d-4b21-af86-32dcbf1c1515",
+        "https://github.com/user-attachments/assets/c1cab3f4-35b6-4ed9-825f-feec9559f034",
+        "https://github.com/user-attachments/assets/5191079c-7f59-4f65-8c82-dea9fbc29549",
+        "https://github.com/user-attachments/assets/1dcbf4d5-7f76-4c96-ab82-4e4db85036cf"
+      ],
+      "githubLink": "https://github.com/sistema-de-ingressos"
+    },
+    "03": {
+      "number": "03",
+      "name": "Medical Clinic System",
+      "description": "Along with my team, I developed a full-stack web application for clinic management, using Spring Boot on the back-end and React on the front-end. The system includes features such as a password panel for triage, call panel, triage queue, and service summary, all integrated with a MySQL database. The application is containerized with Docker and deployed on AWS EC2, ensuring reliability and scalability.",
+      "images": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEfz92KH8XT3w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046611837?e=1728518400&v=beta&t=vKZ84MUlVB8N-T1N-al4sy61ohuEkfacqBPPM9ISM24",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGJrwcsvv5InA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610043?e=1728518400&v=beta&t=c490rAloEBUZ25NxPOo4174inmzriWFzyXLWJqdcuFM",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEaHUpywzUZ_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610320?e=1728518400&v=beta&t=o6PRU55kZYmDPt0jb17gU8xXbix9LChffBwJBu6Nk3Y",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHy_RScKdpp-g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610880?e=1728518400&v=beta&t=GybYSEnhsaA4kI-v9VLeGykF0HEDYmTRY30b4ySbh0o"
+      ]
+    },
+    "04": {
+      "number": "04",
+      "name": "GymTech",
+      "description": "GymTech is a web application for managing gym activities and training sessions, developed with Django on the back-end and PostgreSQL as the database. The application includes features for managing training schedules, users, and workouts, with an emphasis on backend development and optimization.",
+      "images": [
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/login.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/menu.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/usuarios.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/cadastro.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/treino.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/exercicios.png",
+        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/admin.png"
+      ]
+    }
+  }
+}
