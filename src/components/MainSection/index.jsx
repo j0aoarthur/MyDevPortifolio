@@ -5,6 +5,8 @@ import {Button} from "../Button/index.jsx";
 import {ReactTyped} from "react-typed";
 import {GITHUB_LINK} from "../../utils/constants.js";
 import {useTranslation} from "react-i18next";
+import cv_pt from "../../assets/cv_pt_br.pdf";
+import cv_en from "../../assets/cv_en_us.pdf";
 
 export function MainSection() {
     const { t } = useTranslation();
@@ -18,10 +20,10 @@ export function MainSection() {
                     typeSpeed={20}
                 />
                 <ButtonsContainer>
-                    <Button text={t("resume_pt")} width={"200px"}>
+                    <Button text={t("resume_pt")} width={"200px"} href={cv_pt} >
                         <Icon icon="streamline:business-user-curriculum"/>
                     </Button>
-                    <Button text={t("resume_en")} width={"200px"}>
+                    <Button text={t("resume_en")} width={"200px"} href={cv_en}>
                         <Icon icon="streamline:business-user-curriculum"/>
                     </Button>
                     <Button href={GITHUB_LINK} text={"GitHub"} width={"200px"}>
