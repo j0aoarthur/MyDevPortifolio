@@ -21,6 +21,7 @@ export function ProjectsSection() {
                     description={t("projects.02.description")}
                     images={t("projects.02.images", {returnObjects: true})}
                     githubLink={t("projects.02.githubLink")}
+                    link={t("projects.02.link")}
                 />
 
                 <ProjectComponent
@@ -37,6 +38,7 @@ export function ProjectsSection() {
                     description={t("projects.04.description")}
                     images={t("projects.04.images", {returnObjects: true})}
                     githubLink={t("projects.04.githubLink")}
+                    link={t("projects.04.link")}
                 />
             </ProjectsWrapper>
         </Section>
