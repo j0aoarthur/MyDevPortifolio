@@ -68,13 +68,13 @@
       "name": "AFADFAL System",
       "description": "The AFADFAL, is a web system that was developed for a non-profit organization, using a robust and modern tech stack. On the back-end, Spring Boot was implemented, along with Hibernate for managing the MySQL database, providing a solid and efficient foundation for data storage. The front-end was developed with React, offering a dynamic and user-friendly interface. The application was deployed on AWS EC2 and containerized with Docker, ensuring scalability and ease of maintenance. Additionally, tools such as Swagger were used for API documentation, and Lombok and Maven were employed to optimize development.",
       "images": [
-        "https://github.com/user-attachments/assets/58b5998d-b95b-4324-aebc-38cd88d5d64e",
-        "https://github.com/user-attachments/assets/0f4f1d6a-3971-4f9e-9ffc-6ebbfa95c302",
-        "https://github.com/user-attachments/assets/126927dd-1cb5-42c9-a020-9b7aefdff6e2",
-        "https://github.com/user-attachments/assets/1ca07a35-feee-4494-8361-20a3bc463701",
-        "https://github.com/user-attachments/assets/6b9dc6ed-e535-475e-ae1a-368e5e057a81",
-        "https://github.com/user-attachments/assets/848bd08d-bbe7-4c3c-9463-0676f8b751c9",
-        "https://github.com/user-attachments/assets/c12622d3-d21d-4ea4-b53d-d7659930ee0c"
+        "https://lh3.googleusercontent.com/d/1m0i_RuNNzJgfkbcJXpBeL_7Uay_PztF0",
+        "https://lh3.googleusercontent.com/d/1SEaTIFSZuHRPckgLCEGEgM5RwvTjfl--",
+        "https://lh3.googleusercontent.com/d/106iA4hNUv3SnTaATHaKKwtO82mHEoXkB",
+        "https://lh3.googleusercontent.com/d/1zoXZY16u6ux30UdcK1NLr3TbwI9OY8tx",
+        "https://lh3.googleusercontent.com/d/1R7__YVXJRAxmKhq9PKdlD-Ty-Ae2p5hM",
+        "https://lh3.googleusercontent.com/d/1txEJLt0eUPhCGXQ5SpCzuYH0T8IoVhbj",
+        "https://lh3.googleusercontent.com/d/1ngMrIUfMUnaTCnFovn9naq8j0ft6vMSO"
       ]
     },
     "02": {
@@ -82,10 +82,10 @@
       "name": "TicketFlow",
       "description": "TicketFlow is a full-stack web application for event ticket management. It uses React on the front-end with Styled Components and dynamic animations, while the back-end is developed in Spring Boot with MySQL as the database. The application is containerized with Docker to facilitate deployment and ensure scalability.",
       "images": [
-        "https://github.com/user-attachments/assets/bc5bfbcf-509d-4b21-af86-32dcbf1c1515",
-        "https://github.com/user-attachments/assets/c1cab3f4-35b6-4ed9-825f-feec9559f034",
-        "https://github.com/user-attachments/assets/5191079c-7f59-4f65-8c82-dea9fbc29549",
-        "https://github.com/user-attachments/assets/1dcbf4d5-7f76-4c96-ab82-4e4db85036cf"
+        "https://lh3.googleusercontent.com/d/1cy4MQkRKYKUJQbJNXL3e_FhPhAHu3pwY",
+        "https://lh3.googleusercontent.com/d/1sO2A8qjt_c4Xn28wl0dx_fptpB-TyRyO",
+        "https://lh3.googleusercontent.com/d/1IHPStmUIdH_QFA7G_XDs8urDguUyajZ2",
+        "https://lh3.googleusercontent.com/d/1Qt6yXCQ5gdnQizTnGU-XEPXtF9KmdeC7"
       ],
       "githubLink": "https://github.com/sistema-de-ingressos",
       "link": "https://ticketflow-linux.onrender.com/"
@@ -95,10 +95,10 @@
       "name": "Medical Clinic System",
       "description": "Along with my team, I developed a full-stack web application for clinic management, using Spring Boot on the back-end and React on the front-end. The system includes features such as a password panel for triage, call panel, triage queue, and service summary, all integrated with a MySQL database. The application is containerized with Docker and deployed on AWS EC2, ensuring reliability and scalability.",
       "images": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEfz92KH8XT3w/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046611837?e=1728518400&v=beta&t=vKZ84MUlVB8N-T1N-al4sy61ohuEkfacqBPPM9ISM24",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGJrwcsvv5InA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610043?e=1728518400&v=beta&t=c490rAloEBUZ25NxPOo4174inmzriWFzyXLWJqdcuFM",
-        "https://media.licdn.com/dms/image/v2/D4D22AQEaHUpywzUZ_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610320?e=1728518400&v=beta&t=o6PRU55kZYmDPt0jb17gU8xXbix9LChffBwJBu6Nk3Y",
-        "https://media.licdn.com/dms/image/v2/D4D22AQHy_RScKdpp-g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720046610880?e=1728518400&v=beta&t=GybYSEnhsaA4kI-v9VLeGykF0HEDYmTRY30b4ySbh0o"
+        "https://lh3.googleusercontent.com/d/1VdGqYTgmzoSlb8SBnOATIpoJ_CXNoXmA",
+        "https://lh3.googleusercontent.com/d/1Ft_s6mOHAd7faVEq-8_U-ziBcScLyk4b",
+        "https://lh3.googleusercontent.com/d/1ibErxcFYIyDNcbJzEPlC3GXX3XSyg5F3",
+        "https://lh3.googleusercontent.com/d/1SwdE49J0L19rtchI4QxCR3YvKQe7ZZoP"
       ],
       "githubLink": "https://github.com/sistema-clinica"
     },
@@ -107,13 +107,13 @@
       "name": "GymTech",
       "description": "GymTech is a web application for managing gym activities and training sessions, developed with Django on the back-end and PostgreSQL as the database. The application includes features for managing training schedules, users, and workouts, with an emphasis on backend development and optimization.",
       "images": [
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/login.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/menu.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/usuarios.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/cadastro.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/treino.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/exercicios.png",
-        "https://github.com/j0aoarthur/GymTech/raw/main/staticfiles/img/readme_pics/admin.png"
+        "https://lh3.googleusercontent.com/d/1_NfULjpYWaskCi8wUDfbrqdGVEsaVMOO",
+        "https://lh3.googleusercontent.com/d/1LdxjADi-3b56WEqCoBmLa63p_bv6-Nmc",
+        "https://lh3.googleusercontent.com/d/1rp3zfDaRAelG0xsqPnW-Y17AB86hlduE",
+        "https://lh3.googleusercontent.com/d/1-n5gV6Hc7iHfq4HgYQ4f93yB1W4fus1G",
+        "https://lh3.googleusercontent.com/d/12xJud2g0OYMPpPUFFfG-JmS1UhHyVOeZ",
+        "https://lh3.googleusercontent.com/d/1xfLHXN_gBoWiPzNl9rWmqGh8OVjnFsd2",
+        "https://lh3.googleusercontent.com/d/1Oq0LAUUf5v3ajNAkcrFH8RylmIGNw-zp"
       ],
       "link": "https://gymtech.cloud/",
       "githubLink": "https://github.com/j0aoarthur/GymTech"
